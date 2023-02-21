@@ -1,0 +1,22 @@
+diff --git a/createpatch.txt b/createpatch.txt
+deleted file mode 100644
+index 12e1afe..0000000
+--- a/createpatch.txt
++++ /dev/null
+@@ -1,16 +0,0 @@
+-sitemap is xml file where we maintain website url it help in crawling
+-
+-
+-
+-apache sitemap scheduler
+-   -search path-:from where page show
+-   
+-   
+-   
+-   site map storage: where site map store
+-   
+-   
+-   
+-   vs-content__content-new
+-   
+-   vs-content-new

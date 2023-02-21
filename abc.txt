@@ -14,3 +14,8 @@ apache sitemap scheduler
    vs-content__content-new
    
    vs-content-new
+   
+   
+   first git add 
+   then git diff>abc.patch
+   git commit
