@@ -1,0 +1,17 @@
+diff --git a/alpha.html b/alpha.html
+new file mode 100644
+index 0000000..96037eb
+--- /dev/null
++++ b/alpha.html
+@@ -0,0 +1,11 @@
++<!DOCTYPE>  
++<html>  
++<head>  
++<title>Web page title</title>  
++</head>  
++<body>  
++<h1>Write Your First Heading</h1>   
++<h2>Write Your Paragraph.</h2>
++</body>  
++</html>  
++
