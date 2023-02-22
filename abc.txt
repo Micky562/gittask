@@ -19,3 +19,5 @@ apache sitemap scheduler
    first git add 
    then git diff>abc.patch
    git commit
+   
+   how to create patch file
