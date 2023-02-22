@@ -1,17 +1,12 @@
 diff --git a/first.html b/first.html
-new file mode 100644
-index 0000000..205218f
---- /dev/null
+index 205218f..d049fd2 100644
+--- a/first.html
 +++ b/first.html
-@@ -0,0 +1,11 @@
-+<!DOCTYPE>  
-+<html>  
-+<head>  
-+<title>Web page title</title>  
-+</head>  
-+<body>  
-+<h1>Write Your First Heading</h1>   
-+<h2>Write Your Second Heading.</h2>
-+</body>  
-+</html>  
-+
+@@ -6,6 +6,7 @@
+ <body>  
+ <h1>Write Your First Heading</h1>   
+ <h2>Write Your Second Heading.</h2>
++<h3>Hi this is First</h3>
+ </body>  
+ </html>  
+ 
