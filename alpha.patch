@@ -1,0 +1,9 @@
+diff --git a/abc.txt b/abc.txt
+index 78e0a50..4aba7a2 100644
+--- a/abc.txt
++++ b/abc.txt
+@@ -20,4 +20,3 @@ apache sitemap scheduler
+    then git diff>abc.patch
+    git commit
+    
+-   how to create patch file
