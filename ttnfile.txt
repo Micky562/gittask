@@ -1,7 +1,4 @@
 i am working in ttn
 micky
-<<<<<<< HEAD
 abhi
 sam
-=======
->>>>>>> parent of 260e8e1... abhi added
