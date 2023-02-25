@@ -1,4 +1,7 @@
 A
 B
+<<<<<<< HEAD
 d
 e
+=======
+>>>>>>> parent of d7f1ed6... d is added
