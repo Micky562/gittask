@@ -1,3 +1,6 @@
 A
+<<<<<<< HEAD
 B
 C
+=======
+>>>>>>> parent of d9ca3e2... b is added
